@@ -1,0 +1,31 @@
+<?xml version=”1.0”?>
+<address_book>
+	<contact>
+		<name>Hoo Zheng Qi</name>
+		<street>10 Jalan SS15</street>
+		<city>Subang Jaya</city>
+		<state>Selangor</state>
+		<postcode>41500</postcode>
+	</contact>
+	<contact>
+		<name>Lai Yik Sheng</name>
+		<street>9 Jalan Sentosa 2</street>
+		<city>Shah Alam</city>
+		<state>Selangor</state>
+		<postcode>47400</postcode>
+	</contact>
+	<contact>
+		<name>Sanjeet Singh</name>
+		<street>5 Penang Road</street>
+		<city>Georgetown</city>
+		<state>Pulau Pinang</state>
+		<postcode>32800</postcode>
+	</contact>
+	<contact>
+		<name>Jeremiah Htet Thu Htwe</name>
+		<street>98 Lorong Gugusan Alam</street>
+		<city>Petaling Jaya</city>
+		<state>Selangor</state>
+		<postcode>48000</postcode>
+	</contact>
+</address_book>

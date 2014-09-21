@@ -1,0 +1,27 @@
+For running python program with arguments of attack destination, 
+in terminal,
+	key in "python attack.py 'ip of destination'" 
+	or
+	"chmod +x attack.py"
+	"./attack.py 'ip of destination'"
+
+
+For running python program,
+in terminal,
+	key in "python atack.py"
+	or
+	"chmod +x attack.py"
+	"./attack.py"
+
+TO CHANGE THE PING COMMAND
+open attack.py with gedit,
+	goto line 14, mess around with it.
+
+TO CHECK THE PROCESS
+in terminal,
+	key in "top"
+
+TO STOP THE PROGRAM
+in terminal,
+	key in "killall ping"
+*the program doesn't come with terminate commands, so the process have to be kill manually
