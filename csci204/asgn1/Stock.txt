@@ -1,0 +1,11 @@
+ABC Supermarket:10:6037.1:
+Apple:750:1:100:each:
+Orange:390:3.5:500:pack:
+Grapes:100:10.8:300:brunch:
+Book:400:40.5:800:each:
+Water:2000:1:500:bottle:
+Biscuit:50:15.5:500:box:
+Pen:3000:1.2:10:each:
+Pencil:2500:8:120:box:
+Candy:1798:5.5:75:pack:
+Ruler:200:1.5:10:each:

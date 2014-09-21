@@ -1,0 +1,7 @@
+In this observasion, when there is no required object files for creating executable file name: 'prog', the 'make' command will create the object files, then generate the output for 'prog' executable. (img: make_04_make.png)
+
+2nd observasion is when there is changes in 'chemical.cpp', the 'make' command will check and reproduce required object files 'chemical.o' and 'main.o' due to 'main.o' is linked with 'chemical.o' through 'chemical.h'. (img: make_05_change.png)
+
+3rd observasion is the 'make clean' command, which called 'rm *.o' to remove every files with extension '.o'. (img: make_06_clean.png) 
+
+Last observasion is due to misunderstand of the requirements, I tried to 'make' with no target in 'makefile', change in implementation file and update using 'make' command. (img: make_01/02/03_noTarget.png)
