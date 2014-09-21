@@ -1,6 +1,0 @@
-5
-CSCI114	Procedural Programming
-CSCI103	Problem Solving and Algorithm
-CSCI124	Applied Programming
-CSCI110	Introduction to W3 Technologies
-CSCI204	Object and Generic Programming
