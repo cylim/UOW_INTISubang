@@ -7,7 +7,7 @@
 import sys #for direct contact with command line, passing arguments and exit
 import getpass #for hiding the password field purpose
 import hashlib #library of hashing method, in this case: md5
-import random #randomly generate intergers
+import random #randomly generate integers
 import time #for system to pause a few seconds
 import os #for system call
 import re #regular expression for password policy
