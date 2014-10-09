@@ -1,0 +1,58 @@
+Menu
+1. Show Filter Policy
+2. Show Alert Policy
+3. Add Filter Policy
+4. Add Alert Policy
+5. Edit Filter Policy
+6. Edit Alert Policy
+7. Delete Filter Policy
+8. Delete Alert Policy
+9. Run Filter
+10. Run Analyzer
+0. Exit
+Enter Option (Check for validation)
+======================================
+Dynamically, your program should cater for the following for Show Filter Policy:-
+Rule 1
+Port: 4010, 4011
+User: Z
+Action: rwx
+Threshold: 5
+Trigger option: in a row
+
+Rule 2
+Port: >=1
+User: X
+Action: rwx
+Threshold: >=1
+Trigger option: none
+
+Rule 3
+Port: >=1
+User: A
+Action: rwx
+Threshold: >=4
+Trigger option: in the same day
+
+Rule 4
+Port: 4013
+User: any
+Action: x
+Threshold: >=1
+Trigger option: none
+================================
+Dynamically, your program should cater for the following for Show Alert Policy:-
+Alert 1
+Port: 4013
+User: any
+Action: x
+Threshold: >=5
+option: in the same day
+
+Alert 2
+Port: 4017
+User: X
+Action: W
+Threshold: >=3
+option: in the same day
+=================================
