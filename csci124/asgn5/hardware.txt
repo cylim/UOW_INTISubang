@@ -1,0 +1,6 @@
+1 12 65 Knife
+2 22.5 99 Hammer
+3 10 80 Screwdriver
+4 45 30 Calculator
+6 2 99 Screw
+7 12 30 Clock
