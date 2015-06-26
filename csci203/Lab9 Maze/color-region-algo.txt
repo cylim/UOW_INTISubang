@@ -1,0 +1,33 @@
+dictionary (1:red, 2:blue, 3:green, 4:yellow)
+
+While last country is not colored
+	create a temporary queue to store color not in other country
+	if (current country is not colored)
+		current country color = stack color
+		current country move to next country
+	else if	(temporary queue is not empty)
+		current country color = stack color
+	else
+		current country = previous country
+end
+
+
+// From lecturer
+While there is still region yet to be colored
+do
+	pick a region X to color
+	if (red is not used by adjacent regions and has not been used by X before) then
+		color x to red
+		save this step
+	else if (blue is not used by adjacent regions and has not been used by X before) then
+		color x to blue
+		save this step
+	else if (green is not used by adjacent regions and has not been used by X before) then
+		color x to green
+		save this step
+	else if (yellow is not used by adjacent regions and has not been used by X before) then
+		color x to yellow
+		save this step
+	else
+		go back to previous region
+Done

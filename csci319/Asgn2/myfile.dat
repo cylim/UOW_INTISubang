@@ -1,0 +1,16 @@
+Init 32
+AddPeer 7
+AddPeer 3
+AddPeer 12
+AddPeer 20
+Insert 0 THIS IS A TEST
+Insert 7 SOME TEXT
+Insert 7 CSCI319
+Print 12
+Delete 0 THIS IS A TEST
+RemovePeer 12
+Print 0
+Print 7
+Insert 3 HELLO THERE
+AddPeer 25
+Insert 3 GOOD DAY
